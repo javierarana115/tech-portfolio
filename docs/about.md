@@ -13,7 +13,7 @@ might include:
 1. Your personal and professional values
 1. Hobbies or fun facts
 
-Write it in first (I) or third (Your Name Here) person.
+Write it in first (I) or third (Javier Arana) person.
 
 > Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
